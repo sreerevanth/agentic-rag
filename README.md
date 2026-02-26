@@ -6,7 +6,6 @@
 Agentic RAG is an intelligent system that combines Large Language Models (LLMs) with autonomous agents and retrieval mechanisms to provide accurate, context-aware responses.
 
 Unlike traditional RAG systems, this project introduces an **agent-based decision layer** that dynamically decides when to retrieve information, what to retrieve, and how to use it before generating a final response.
-
 ---
 
 ## 🎯 Objective
